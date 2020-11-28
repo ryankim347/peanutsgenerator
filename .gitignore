@@ -1,3 +1,4 @@
 split/
-dataset/boundingboxes.py
+dataset/remove_text.py
 indiv_panels/
+indiv_panels.zip
