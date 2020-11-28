@@ -4,7 +4,7 @@ import pytesseract
 import numpy as np
 import glob
 images = glob.glob('../split/*.jpg')
-print(str(len(images)) + ' images to process!')
+print(str(len(images)) + ' images to process total!')
 c = 0
 for path in images:
     name = path[9:-4]
